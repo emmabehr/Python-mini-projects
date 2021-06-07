@@ -1,3 +1,3 @@
 # 100 days of Python
 
-100mni projects.
+100mini projects.
