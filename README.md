@@ -7,4 +7,4 @@
 1. Day 2 - Reverse a string
 1. Day 3 - Palindrome Checker
 1. Day 4 - Vowel Counter
-1. Day 4 - Word Counter
+1. Day 5 - Word Counter
