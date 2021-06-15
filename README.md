@@ -10,3 +10,5 @@
 1. Day 5 - Word Counter
 1. Day 6 - Simple rock, paper, scissors game
 1. Day 7 - Coin flipper
+1. Day 8 - Find longest word
+1. Day 9 - Using Luhn algorithm to implement credit card number checker
