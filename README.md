@@ -12,3 +12,4 @@
 1. Day 7 - Coin flipper
 1. Day 8 - Find longest word
 1. Day 9 - Using Luhn algorithm to implement credit card number checker
+1. Day 10 - Simple Magic 8 Ball
