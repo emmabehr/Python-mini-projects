@@ -3,14 +3,14 @@
 100 mini projects.
 
 ## Projects
-1. Day 1 - FizzBuzz
-1. Day 2 - Reverse a string
-1. Day 3 - Palindrome Checker
-1. Day 4 - Vowel Counter
-1. Day 5 - Word Counter
-1. Day 6 - Simple rock, paper, scissors game
-1. Day 7 - Coin flipper
-1. Day 8 - Find longest word
-1. Day 9 - Using Luhn algorithm to implement credit card number checker
-1. Day 10 - Simple Magic 8 Ball
-1. Day 11 - Countdown timer
+1. Day 1 - [FizzBuzz](https://github.com/emmabehr/100-days-of-python/tree/main/Day%201%20-%20Fizz%20Buzz)
+1. Day 2 - [Reverse a string](https://github.com/emmabehr/100-days-of-python/tree/main/Day%202%20-%20Reverse%20String)
+1. Day 3 - [Palindrome Checker](https://github.com/emmabehr/100-days-of-python/tree/main/Day%203%20-%20Palindrome%20Checker)
+1. Day 4 - [Vowel Counter](https://github.com/emmabehr/100-days-of-python/tree/main/Day%204%20-%20Counting%20Vowels)
+1. Day 5 - [Word Counter](https://github.com/emmabehr/100-days-of-python/tree/main/Day%205%20-%20Counting%20Words)
+1. Day 6 - [Simple rock, paper, scissors game](https://github.com/emmabehr/100-days-of-python/tree/main/Day%206%20-%20Rock%20Paper%20Scissors)
+1. Day 7 - [Coin flipper](https://github.com/emmabehr/100-days-of-python/tree/main/Day%207%20-%20Coin%20Flip)
+1. Day 8 - [Find longest word](https://github.com/emmabehr/100-days-of-python/commit/7764b1e7f83a20a0bdc32bd5877474cf34b9d990)
+1. Day 9 - [Using Luhn algorithm to implement credit card number checker](https://github.com/emmabehr/100-days-of-python#:~:text=Day%209%20-%20Credit%20Card%20Checker)
+1. Day 10 - [Simple Magic 8 Ball](https://github.com/emmabehr/100-days-of-python/tree/main/Day%2010%20-%20Magic%208%20Ball)
+1. Day 11 - [Countdown timer](https://github.com/emmabehr/100-days-of-python/tree/main/Day%2011%20-%20Countdown%20Timer)
