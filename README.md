@@ -15,5 +15,5 @@
 1. Day 10 - [Simple Magic 8 Ball](https://github.com/emmabehr/100-days-of-python/tree/main/Day%2010%20-%20Magic%208%20Ball)
 1. Day 11 - [Countdown timer](https://github.com/emmabehr/100-days-of-python/tree/main/Day%2011%20-%20Countdown%20Timer)
 1. Day 12 - [Simple Counter using TKInter gui](https://github.com/emmabehr/100-days-of-python/tree/main/Day%2012%20-%20TK%20gui%20counter)
-1. Day 13 - [Simple Counter using wxPython gui](https://github.com/emmabehr/100-days-of-python#:~:text=Day%2013%20-%20wx%20gui%20counter)
-1. Day 14 - [Pong using the turtle library](https://github.com/emmabehr/100-days-of-python#:~:text=2%20days%20ago-,Day%2014%20-%20Pong,-pong%20game)
+1. Day 13 - [Simple Counter using wxPython gui](https://github.com/emmabehr/100-days-of-python/tree/main/Day%2013%20-%20wx%20gui%20counter)
+1. Day 14 - [Pong using the turtle library](https://github.com/emmabehr/100-days-of-python/tree/main/Day%2014%20-%20Pong)
