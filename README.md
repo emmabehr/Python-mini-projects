@@ -1,7 +1,6 @@
-# 100 days of Python
+# Python Mini Projects
 
-100 mini projects.
-
+Python mini projects
 ## Projects
 1. Day 1 - [FizzBuzz](https://github.com/emmabehr/100-days-of-python/tree/main/Day%201%20-%20Fizz%20Buzz)
 1. Day 2 - [Reverse a string](https://github.com/emmabehr/100-days-of-python/tree/main/Day%202%20-%20Reverse%20String)
@@ -18,4 +17,3 @@
 1. Day 13 - [Simple Counter using wxPython gui](https://github.com/emmabehr/100-days-of-python/tree/main/Day%2013%20-%20wx%20gui%20counter)
 1. Day 14 - [Pong using the turtle library](https://github.com/emmabehr/100-days-of-python/tree/main/Day%2014%20-%20Pong)
 1. Day 15 - [Smallest amount of change](https://github.com/emmabehr/100-days-of-python/blob/main/Day%2015%20-%20Smallest%20Amount%20of%20Change/change.py)
-1. Day 16 - [3210 Snake Game](https://github.com/emmabehr/100-days-of-python/blob/main/Day%2016%20-%20Snake/snake.py)
